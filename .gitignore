@@ -1,0 +1,16 @@
+models/
+__pycache__/
+.DS_Store
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.python-version
+data/
+reports/
+results/
+text.py
+recompute_fairness.py
+paths.py
+dataio.py
+notebooks/check_resulst.ipynb
+notebooks/check_labels.ipynb
