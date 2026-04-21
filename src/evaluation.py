@@ -11,8 +11,8 @@ REFERENCE_GROUPS = {
     "LGBTQ_status": "No",
     "disability": "No",
     "gender": "Man",
-    "age": "<= 30",   # falls du das so beibehalten willst; alternativ größte Gruppe
-    "religion": "REST",  # nur relevant bei signal-vs-rest
+    "age": "<= 30",   
+    "religion": "REST", 
 }
 
 def resolve_reference_group(
